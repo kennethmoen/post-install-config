@@ -25,14 +25,14 @@ Select the "Departments" button in the agents tab. Here we will be able to creat
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/dGK0RVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/post-install-config/assets/145589069/f3283571-c375-425d-8890-8d93365f48e7"/>
 </p>
 <p>
 After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team. 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/cYzWBD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/post-install-config/assets/145589069/1c2c9824-5064-41a8-b36e-62a5198fbd66"/>
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.

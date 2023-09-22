@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/kennethmoen/post-install-config/assets/145589069/e0ab046e-0512-49f0-991e-1f6721599a11)<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -51,7 +51,7 @@ It is now time to create Agents. Agents are the employees of the helpdesk that a
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
 </p>
 <br />
-<img src="https://i.imgur.com/xOprA9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/post-install-config/assets/145589069/13bb3ec2-3686-4824-8547-2593f5ff7c97"/>
 </p>
 <p>
 SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 

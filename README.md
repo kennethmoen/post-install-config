@@ -32,7 +32,7 @@ After configuring a new department we will set up a new team. Teams allow you to
 </p>
 <br />
 <p>
-<img src="https://github.com/kennethmoen/post-install-config/assets/145589069/1c2c9824-5064-41a8-b36e-62a5198fbd66"/>
+<img src="https://github.com/kennethmoen/post-install-config/assets/145589069/6628455b-929f-40f6-93e3-d747a1597aae"/>
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.

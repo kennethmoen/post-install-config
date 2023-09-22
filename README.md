@@ -1,4 +1,3 @@
-![image](https://github.com/kennethmoen/post-install-config/assets/145589069/e0ab046e-0512-49f0-991e-1f6721599a11)<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -63,7 +62,7 @@ SLAs Plans provide a length of time in which the help desk is expected to take i
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
 </p>
 <br />
-<img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/post-install-config/assets/145589069/1589b0fc-8e76-453d-9c91-6d6651e96c75"/>
 </p>
 <p>
 Be sure to go to ticket information and be sure to set the SLA and priority accordingly. This concludes the Osticket Post Installation setup demonstration.
